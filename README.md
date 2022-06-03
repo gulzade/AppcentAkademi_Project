@@ -6,4 +6,4 @@
 
 ## Output
 
-<img src="https://github.com/gulzade/AppcentAkademi_Project/blob/main/output.png" width="800"/>
+<img src="https://github.com/gulzade/AppcentAkademi_Project/blob/main/output.png" width="1000"/>
